@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="LoveCard" size="1.000000 1.151079" />
+    <ImageTarget name="StemCenter" size="1.000000 1.431767" />
+    <ImageTarget name="100" size="1.000000 0.418333" />
+    <ImageTarget name="50" size="1.000000 0.425714" />
+    <ImageTarget name="200" size="1.000000 0.446875" />
+    <ImageTarget name="Astronaut" size="1.000000 1.727273" />
+    <ImageTarget name="Picture" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
