@@ -16,7 +16,7 @@
 
 2) Money Detection
 
-  Three currencies detection by recorded voice and a text label (100,50,200) L.E. 
+  Three currencies detection by recorded voice and a text label (Hamada) (100,50,200) L.E. 
   
   ![image](https://user-images.githubusercontent.com/112272836/214954284-c6109164-781c-47e0-bbc8-b6c79afd71dd.png)
 
@@ -57,6 +57,8 @@
 ![image](https://user-images.githubusercontent.com/112272836/214954571-d6d7e9b9-3320-4d16-ae1d-bbf827c67d16.png)
 
 7) Exit
+
+-Once you press continue in any of them, your camera will be opened to start targeting the images.
 
 -In case you want better resolution for the Demo, check out this link as the below Demo is compressed :
 
