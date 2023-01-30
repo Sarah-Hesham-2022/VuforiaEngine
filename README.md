@@ -1,4 +1,4 @@
-# Vuforia
+# Vuforia Engine Augmented Reality
 
 -Augmented Reality using Vuforia Engine, Unity and C# 
 
